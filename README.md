@@ -10,3 +10,12 @@ The datasets consists of several medical predictor variables and one target vari
 # Libraries used:
 
 Numpy, Pandas, Matplotlib and Seaborn
+
+# Histogram:
+![](histogram.png)
+
+# Barplots:
+![](barplot.png)
+
+# Crorelation graph:
+![](coorelation.png)
